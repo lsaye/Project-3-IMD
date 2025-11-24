@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "Shlop";
+    src: url('fonts/shlop rg.woff2') format('woff2'),
+          
+    font-weight: normal;
+    font-style: normal;
+   
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: url("./images/BG.jpg");
+    background-size: cover;
+}
+#board {
+    width: 540px;
+    height: 540px;
+    background-color: #f0d9b5;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background: url("./images/ground.jpg");
+    border: 3px solid #ae00ff;
+    box-shadow: #000 5px 5px 15px;
+    border-radius: 25px ;
+}
+
+
+
+
+h1 {
+    font-size: 60px;
+    font-weight: normal;
+    font-family: 'Shlop', sans-serif; 
+    color: #d8ff89;
+    text-shadow: 1px 1px 5px #d8ff89;
+
+    
+
+}
+h2 {
+    font-family: "Shlop", Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #d8ff89;
+    text-shadow: 1px 1px 2px #d8ff89;
+}
