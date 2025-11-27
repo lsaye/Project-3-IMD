@@ -26,7 +26,17 @@ body {
     border-radius: 25px ;
 }
 
+#board div {
+    width: 180px;
+    height: 180px;
+    background-image: url("./images/tomb1.png");
+    background-size: cover;
+}
 
+#board div img {
+    width: 175px;
+    height: 150px;
+}
 
 
 h1 {
