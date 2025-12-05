@@ -17,10 +17,10 @@ body {
     width: 540px;
     height: 540px;
     background-color: #f0d9b5;
-    margin: 0 auto;
+    margin: auto;
     display: flex;
     flex-wrap: wrap;
-    background: url("./images/ground.jpg");
+    background-image: url("./images/ground.jpg");
     border: 3px solid #ae00ff;
     box-shadow: #000 5px 5px 15px;
     border-radius: 25px ;

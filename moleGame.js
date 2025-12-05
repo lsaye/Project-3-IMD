@@ -66,6 +66,8 @@ function selectTile() {
     else if (this == currBombTile) {
         document.getElementById("score").innerText = "GAME OVER: " + score.toString();
         gameOver = true;
+        document.getElementById("board").style.backgroundImage = 'url("./images/red-ground.jpg")';
+
     }
 
 }
