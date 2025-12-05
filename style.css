@@ -55,3 +55,40 @@ h2 {
     color: #d8ff89;
     text-shadow: 1px 1px 2px #d8ff89;
 }
+
+.game-desc-box {
+background-color:rgba(0, 0, 0, 0.7);
+padding: 20px;
+border-radius: 30px;
+max width: 100px;
+margin: 50px auto;
+
+}
+h3 {
+    font-family: "Shlop", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #d8ff89;
+   
+}
+p {
+    font-size: 20px;
+    color: #d8ff89;
+    
+}
+ul {
+    font-size: 20px;
+    color: #d8ff89;
+}
+
+h4 {
+    font-family: "Shlop", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #d8ff89;
+   
+}
+h5 {
+    font-family: "Shlop", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #d8ff89;
+   
+}
